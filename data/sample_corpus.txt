@@ -1,0 +1,4 @@
+This is a small sample corpus for demonstrating n-gram extraction and simple spell correction.
+The corpus includes several repeated words, punctuation, and mixed case to show tokenization and counting.
+Natural language processing often relies on n-gram statistics to model sequences of words.
+Spell correction can be implemented using edit distance techniques and word frequency lists.
